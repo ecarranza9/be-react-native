@@ -4,4 +4,4 @@
 
 ## .env = 
 ## PORT=3001
-## MONGO_URL=mongodb+srv://testAdmin:adminpassword@cluster0.9rqim.mongodb.net/eurekaaddress?retryWrites=true&w=majority
+## MONGO_URL=mongodb+srv://testAdmin:adminpassword@cluster0.1lkur.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
